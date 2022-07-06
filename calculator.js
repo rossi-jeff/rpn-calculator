@@ -1,4 +1,4 @@
-import * as readline from 'readline';
+import readline from 'readline';
 const prompts = readline.createInterface(process.stdin, process.stdout);
   
 
