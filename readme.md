@@ -6,6 +6,14 @@ Language: Javascript
 
 Author: Jeff Rossi
 
+## Setup
+
+a few modules are needed in order to run tests
+
+```
+npm i
+```
+
 ## Usage
 
 ```
