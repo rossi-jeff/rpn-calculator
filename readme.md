@@ -25,3 +25,9 @@ or
 ```
 node index.js
 ```
+
+## Testing
+
+```
+npm run test
+```
