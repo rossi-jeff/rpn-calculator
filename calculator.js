@@ -41,7 +41,7 @@ export class Calculator {
 				}
 			} else if (isNaN(token) && !this.operators.has(token)) {
 				console.log(`${token} is not a valid token`);
-			} else {
+			} else if (token) {
 				this.data.push(token)
 			}
 		}
